@@ -4,10 +4,6 @@ The main focus of this notebook is on Linear Regression and understanding how th
 
 # 🛠️ Libraries Used
 
-  - Python
-
-  - NumPy
-
   - Pandas
 
   - Matplotlib
